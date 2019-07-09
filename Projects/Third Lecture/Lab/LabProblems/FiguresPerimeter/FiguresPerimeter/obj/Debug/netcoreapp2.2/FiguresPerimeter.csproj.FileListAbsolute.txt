@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\bin\Debug\netcoreapp2.2\FiguresPerimeter.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\bin\Debug\netcoreapp2.2\FiguresPerimeter.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\bin\Debug\netcoreapp2.2\FiguresPerimeter.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\bin\Debug\netcoreapp2.2\FiguresPerimeter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\bin\Debug\netcoreapp2.2\FiguresPerimeter.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\LabProblems\FiguresPerimeter\FiguresPerimeter\obj\Debug\netcoreapp2.2\FiguresPerimeter.pdb

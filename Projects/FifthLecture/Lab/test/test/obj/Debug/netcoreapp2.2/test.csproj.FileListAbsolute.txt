@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\bin\Debug\netcoreapp2.2\test.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\bin\Debug\netcoreapp2.2\test.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\test\test\obj\Debug\netcoreapp2.2\test.pdb

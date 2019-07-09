@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\bin\Debug\netcoreapp2.2\Triangle Area.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\bin\Debug\netcoreapp2.2\Triangle Area.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\bin\Debug\netcoreapp2.2\Triangle Area.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\bin\Debug\netcoreapp2.2\Triangle Area.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\bin\Debug\netcoreapp2.2\Triangle Area.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\obj\Debug\netcoreapp2.2\Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\obj\Debug\netcoreapp2.2\Triangle Area.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\obj\Debug\netcoreapp2.2\Triangle Area.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\obj\Debug\netcoreapp2.2\Triangle Area.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\Triangle Area\obj\Debug\netcoreapp2.2\Triangle Area.pdb

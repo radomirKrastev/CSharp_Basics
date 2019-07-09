@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\bin\Debug\netcoreapp2.2\Honeymoon.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\bin\Debug\netcoreapp2.2\Honeymoon.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\bin\Debug\netcoreapp2.2\Honeymoon.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\bin\Debug\netcoreapp2.2\Honeymoon.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\bin\Debug\netcoreapp2.2\Honeymoon.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\3 and 4 November 2018\1\WeddingHall\Honeymoon\obj\Debug\netcoreapp2.2\Honeymoon.pdb

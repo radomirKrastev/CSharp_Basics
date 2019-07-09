@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\bin\Debug\netcoreapp2.2\PastryShop.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\bin\Debug\netcoreapp2.2\PastryShop.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\bin\Debug\netcoreapp2.2\PastryShop.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\bin\Debug\netcoreapp2.2\PastryShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\bin\Debug\netcoreapp2.2\PastryShop.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\PastryShop\obj\Debug\netcoreapp2.2\PastryShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\bin\Debug\netcoreapp2.2\BeerAndChips.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\bin\Debug\netcoreapp2.2\BeerAndChips.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\bin\Debug\netcoreapp2.2\BeerAndChips.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\bin\Debug\netcoreapp2.2\BeerAndChips.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\bin\Debug\netcoreapp2.2\BeerAndChips.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\BeerAndChips\obj\Debug\netcoreapp2.2\BeerAndChips.pdb

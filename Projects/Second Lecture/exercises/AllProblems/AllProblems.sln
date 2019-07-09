@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiansToCelsius", "RadiansToCelsius\RadiansToCelsius.csproj", "{EBFA8C7A-FE12-436B-8C78-3899D1B874B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USDToBGN", "USDToBGN\USDToBGN.csproj", "{B0D9E091-8809-4FFC-B6CC-50A2596D0105}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{D44B7302-F515-4AF5-B579-2E31AFD7D8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TailoringWorkshop", "TailoringWorkshop\TailoringWorkshop.csproj", "{A9E1F83D-F654-4E72-9266-D2B944AA845C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanceGym", "DanceGym\DanceGym.csproj", "{53BDCABE-C4C8-4C8D-8E39-337B6B11D0C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlcoolShop", "AlcoolShop\AlcoolShop.csproj", "{D2E7A8BD-C88B-4062-B93D-550D652C707B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityCampaing", "CharityCampaing\CharityCampaing.csproj", "{5F52540B-05E1-4FA4-A898-175BA6B9A08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFA8C7A-FE12-436B-8C78-3899D1B874B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFA8C7A-FE12-436B-8C78-3899D1B874B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFA8C7A-FE12-436B-8C78-3899D1B874B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFA8C7A-FE12-436B-8C78-3899D1B874B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D9E091-8809-4FFC-B6CC-50A2596D0105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D9E091-8809-4FFC-B6CC-50A2596D0105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D9E091-8809-4FFC-B6CC-50A2596D0105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D9E091-8809-4FFC-B6CC-50A2596D0105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44B7302-F515-4AF5-B579-2E31AFD7D8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B7302-F515-4AF5-B579-2E31AFD7D8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B7302-F515-4AF5-B579-2E31AFD7D8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B7302-F515-4AF5-B579-2E31AFD7D8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E1F83D-F654-4E72-9266-D2B944AA845C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E1F83D-F654-4E72-9266-D2B944AA845C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E1F83D-F654-4E72-9266-D2B944AA845C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E1F83D-F654-4E72-9266-D2B944AA845C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BDCABE-C4C8-4C8D-8E39-337B6B11D0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BDCABE-C4C8-4C8D-8E39-337B6B11D0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BDCABE-C4C8-4C8D-8E39-337B6B11D0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BDCABE-C4C8-4C8D-8E39-337B6B11D0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E7A8BD-C88B-4062-B93D-550D652C707B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E7A8BD-C88B-4062-B93D-550D652C707B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E7A8BD-C88B-4062-B93D-550D652C707B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E7A8BD-C88B-4062-B93D-550D652C707B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F52540B-05E1-4FA4-A898-175BA6B9A08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52540B-05E1-4FA4-A898-175BA6B9A08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52540B-05E1-4FA4-A898-175BA6B9A08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52540B-05E1-4FA4-A898-175BA6B9A08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3E3987-DAF2-4CD4-A583-B39BF1BC12EF}
+	EndGlobalSection
+EndGlobal

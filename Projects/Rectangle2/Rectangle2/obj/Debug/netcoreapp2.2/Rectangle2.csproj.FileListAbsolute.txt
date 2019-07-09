@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\bin\Debug\netcoreapp2.2\Rectangle2.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\bin\Debug\netcoreapp2.2\Rectangle2.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\bin\Debug\netcoreapp2.2\Rectangle2.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\bin\Debug\netcoreapp2.2\Rectangle2.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\bin\Debug\netcoreapp2.2\Rectangle2.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Rectangle2\Rectangle2\obj\Debug\netcoreapp2.2\Rectangle2.pdb

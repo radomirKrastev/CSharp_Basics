@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\bin\Debug\netcoreapp2.2\TestNumber.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\bin\Debug\netcoreapp2.2\TestNumber.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\bin\Debug\netcoreapp2.2\TestNumber.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\bin\Debug\netcoreapp2.2\TestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\bin\Debug\netcoreapp2.2\TestNumber.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\TestNumber\TestNumber\obj\Debug\netcoreapp2.2\TestNumber.csprojAssemblyReference.cache

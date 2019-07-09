@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\bin\Debug\netcoreapp2.2\Combinations.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\bin\Debug\netcoreapp2.2\Combinations.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\bin\Debug\netcoreapp2.2\Combinations.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\bin\Debug\netcoreapp2.2\Combinations.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\bin\Debug\netcoreapp2.2\Combinations.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\Combinations\obj\Debug\netcoreapp2.2\Combinations.pdb

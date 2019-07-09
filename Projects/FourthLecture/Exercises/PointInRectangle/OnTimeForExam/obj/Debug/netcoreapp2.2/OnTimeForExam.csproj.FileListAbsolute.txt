@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\bin\Debug\netcoreapp2.2\OnTimeForExam.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\bin\Debug\netcoreapp2.2\OnTimeForExam.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\bin\Debug\netcoreapp2.2\OnTimeForExam.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\bin\Debug\netcoreapp2.2\OnTimeForExam.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\bin\Debug\netcoreapp2.2\OnTimeForExam.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OnTimeForExam\obj\Debug\netcoreapp2.2\OnTimeForExam.pdb

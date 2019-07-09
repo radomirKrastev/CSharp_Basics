@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\bin\Debug\netcoreapp2.2\EvenOddPositions.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\bin\Debug\netcoreapp2.2\EvenOddPositions.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\bin\Debug\netcoreapp2.2\EvenOddPositions.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\bin\Debug\netcoreapp2.2\EvenOddPositions.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\bin\Debug\netcoreapp2.2\EvenOddPositions.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\EvenOddPositions\obj\Debug\netcoreapp2.2\EvenOddPositions.pdb

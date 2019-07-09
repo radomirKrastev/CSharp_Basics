@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\bin\Debug\netcoreapp2.2\ChristmasSweets.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\bin\Debug\netcoreapp2.2\ChristmasSweets.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\bin\Debug\netcoreapp2.2\ChristmasSweets.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\bin\Debug\netcoreapp2.2\ChristmasSweets.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\bin\Debug\netcoreapp2.2\ChristmasSweets.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\22and23 December 2018\ChristmasSweets\ChristmasSweets\obj\Debug\netcoreapp2.2\ChristmasSweets.pdb

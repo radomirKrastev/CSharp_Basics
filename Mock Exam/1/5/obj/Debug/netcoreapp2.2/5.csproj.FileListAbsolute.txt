@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\bin\Debug\netcoreapp2.2\5.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\bin\Debug\netcoreapp2.2\5.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\bin\Debug\netcoreapp2.2\5.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\bin\Debug\netcoreapp2.2\5.dll
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\bin\Debug\netcoreapp2.2\5.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.dll
+C:\Users\rado\Desktop\SoftUni FIles\Mock Exam\1\5\obj\Debug\netcoreapp2.2\5.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\bin\Debug\netcoreapp2.2\SchoolTrip.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\bin\Debug\netcoreapp2.2\SchoolTrip.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\bin\Debug\netcoreapp2.2\SchoolTrip.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\bin\Debug\netcoreapp2.2\SchoolTrip.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\bin\Debug\netcoreapp2.2\SchoolTrip.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\SchoolTrip\obj\Debug\netcoreapp2.2\SchoolTrip.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\bin\Debug\netcoreapp2.2\VolleyBall.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\bin\Debug\netcoreapp2.2\VolleyBall.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\bin\Debug\netcoreapp2.2\VolleyBall.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\bin\Debug\netcoreapp2.2\VolleyBall.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\bin\Debug\netcoreapp2.2\VolleyBall.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\VolleyBall\obj\Debug\netcoreapp2.2\VolleyBall.pdb

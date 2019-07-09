@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\bin\Debug\netcoreapp2.2\ToyShop.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\bin\Debug\netcoreapp2.2\ToyShop.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\bin\Debug\netcoreapp2.2\ToyShop.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\bin\Debug\netcoreapp2.2\ToyShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\bin\Debug\netcoreapp2.2\ToyShop.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\ToyShop\ToyShop\obj\Debug\netcoreapp2.2\ToyShop.pdb

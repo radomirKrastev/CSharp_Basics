@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\bin\Debug\netcoreapp2.2\Renovation.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\bin\Debug\netcoreapp2.2\Renovation.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\bin\Debug\netcoreapp2.2\Renovation.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\bin\Debug\netcoreapp2.2\Renovation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\bin\Debug\netcoreapp2.2\Renovation.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Renovation\obj\Debug\netcoreapp2.2\Renovation.pdb

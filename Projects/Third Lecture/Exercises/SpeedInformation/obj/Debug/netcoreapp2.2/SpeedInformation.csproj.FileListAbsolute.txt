@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\bin\Debug\netcoreapp2.2\SpeedInformation.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\bin\Debug\netcoreapp2.2\SpeedInformation.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\bin\Debug\netcoreapp2.2\SpeedInformation.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\bin\Debug\netcoreapp2.2\SpeedInformation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\bin\Debug\netcoreapp2.2\SpeedInformation.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\obj\Debug\netcoreapp2.2\SpeedInformation.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\obj\Debug\netcoreapp2.2\SpeedInformation.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\obj\Debug\netcoreapp2.2\SpeedInformation.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\obj\Debug\netcoreapp2.2\SpeedInformation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SpeedInformation\obj\Debug\netcoreapp2.2\SpeedInformation.pdb

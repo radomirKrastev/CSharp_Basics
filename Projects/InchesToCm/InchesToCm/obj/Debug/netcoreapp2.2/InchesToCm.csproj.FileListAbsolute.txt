@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\bin\Debug\netcoreapp2.2\InchesToCm.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\bin\Debug\netcoreapp2.2\InchesToCm.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\bin\Debug\netcoreapp2.2\InchesToCm.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\bin\Debug\netcoreapp2.2\InchesToCm.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\bin\Debug\netcoreapp2.2\InchesToCm.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\InchesToCm\InchesToCm\obj\Debug\netcoreapp2.2\InchesToCm.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\bin\Debug\netcoreapp2.2\Numbers1To202ndSolution.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\bin\Debug\netcoreapp2.2\Numbers1To202ndSolution.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\bin\Debug\netcoreapp2.2\Numbers1To202ndSolution.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\bin\Debug\netcoreapp2.2\Numbers1To202ndSolution.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\bin\Debug\netcoreapp2.2\Numbers1To202ndSolution.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Numbers1To202ndSolution\Numbers1To202ndSolution\obj\Debug\netcoreapp2.2\Numbers1To202ndSolution.pdb

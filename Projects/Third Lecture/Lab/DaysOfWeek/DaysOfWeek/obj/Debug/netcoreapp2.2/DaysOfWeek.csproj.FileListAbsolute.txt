@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\bin\Debug\netcoreapp2.2\DaysOfWeek.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\DaysOfWeek\DaysOfWeek\obj\Debug\netcoreapp2.2\DaysOfWeek.pdb

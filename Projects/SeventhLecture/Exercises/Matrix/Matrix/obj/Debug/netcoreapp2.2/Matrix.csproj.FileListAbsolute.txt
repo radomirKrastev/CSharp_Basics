@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\bin\Debug\netcoreapp2.2\Matrix.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\bin\Debug\netcoreapp2.2\Matrix.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\bin\Debug\netcoreapp2.2\Matrix.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\bin\Debug\netcoreapp2.2\Matrix.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\bin\Debug\netcoreapp2.2\Matrix.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\Exercises\Matrix\Matrix\obj\Debug\netcoreapp2.2\Matrix.pdb

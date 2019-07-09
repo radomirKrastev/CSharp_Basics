@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\bin\Debug\netcoreapp2.2\GreatestNumber.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\bin\Debug\netcoreapp2.2\GreatestNumber.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\bin\Debug\netcoreapp2.2\GreatestNumber.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\bin\Debug\netcoreapp2.2\GreatestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\bin\Debug\netcoreapp2.2\GreatestNumber.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\obj\Debug\netcoreapp2.2\GreatestNumber.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\obj\Debug\netcoreapp2.2\GreatestNumber.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\obj\Debug\netcoreapp2.2\GreatestNumber.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\obj\Debug\netcoreapp2.2\GreatestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\GreatestNumber\obj\Debug\netcoreapp2.2\GreatestNumber.pdb

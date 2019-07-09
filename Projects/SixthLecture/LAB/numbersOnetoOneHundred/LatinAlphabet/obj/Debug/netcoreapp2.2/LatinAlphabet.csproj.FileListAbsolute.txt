@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\bin\Debug\netcoreapp2.2\LatinAlphabet.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\bin\Debug\netcoreapp2.2\LatinAlphabet.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\bin\Debug\netcoreapp2.2\LatinAlphabet.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\bin\Debug\netcoreapp2.2\LatinAlphabet.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\bin\Debug\netcoreapp2.2\LatinAlphabet.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\obj\Debug\netcoreapp2.2\LatinAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\obj\Debug\netcoreapp2.2\LatinAlphabet.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\obj\Debug\netcoreapp2.2\LatinAlphabet.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\obj\Debug\netcoreapp2.2\LatinAlphabet.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LatinAlphabet\obj\Debug\netcoreapp2.2\LatinAlphabet.pdb

@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\bin\Debug\netcoreapp2.2\GoingHome.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\bin\Debug\netcoreapp2.2\GoingHome.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\bin\Debug\netcoreapp2.2\GoingHome.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\bin\Debug\netcoreapp2.2\GoingHome.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\bin\Debug\netcoreapp2.2\GoingHome.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\GoingHome\obj\Debug\netcoreapp2.2\GoingHome.pdb

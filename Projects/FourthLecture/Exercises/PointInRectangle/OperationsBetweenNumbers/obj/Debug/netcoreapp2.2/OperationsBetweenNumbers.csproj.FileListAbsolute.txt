@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\bin\Debug\netcoreapp2.2\OperationsBetweenNumbers.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\bin\Debug\netcoreapp2.2\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\bin\Debug\netcoreapp2.2\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\bin\Debug\netcoreapp2.2\OperationsBetweenNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\bin\Debug\netcoreapp2.2\OperationsBetweenNumbers.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\OperationsBetweenNumbers\obj\Debug\netcoreapp2.2\OperationsBetweenNumbers.pdb

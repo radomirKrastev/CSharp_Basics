@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\bin\Debug\netcoreapp2.2\SequenceOfNumbers.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\bin\Debug\netcoreapp2.2\SequenceOfNumbers.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\bin\Debug\netcoreapp2.2\SequenceOfNumbers.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\bin\Debug\netcoreapp2.2\SequenceOfNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\bin\Debug\netcoreapp2.2\SequenceOfNumbers.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\obj\Debug\netcoreapp2.2\SequenceOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\obj\Debug\netcoreapp2.2\SequenceOfNumbers.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\obj\Debug\netcoreapp2.2\SequenceOfNumbers.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\obj\Debug\netcoreapp2.2\SequenceOfNumbers.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\SequenceOfNumbers\obj\Debug\netcoreapp2.2\SequenceOfNumbers.pdb

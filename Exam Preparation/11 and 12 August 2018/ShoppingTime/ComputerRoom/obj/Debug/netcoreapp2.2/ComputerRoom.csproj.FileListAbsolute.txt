@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\bin\Debug\netcoreapp2.2\ComputerRoom.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\bin\Debug\netcoreapp2.2\ComputerRoom.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\bin\Debug\netcoreapp2.2\ComputerRoom.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\bin\Debug\netcoreapp2.2\ComputerRoom.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\bin\Debug\netcoreapp2.2\ComputerRoom.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\ComputerRoom\obj\Debug\netcoreapp2.2\ComputerRoom.pdb

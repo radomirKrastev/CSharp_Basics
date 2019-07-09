@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\bin\Debug\netcoreapp2.2\Vacation.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\bin\Debug\netcoreapp2.2\Vacation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\bin\Debug\netcoreapp2.2\Vacation.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Exercise\Library\Vacation\obj\Debug\netcoreapp2.2\Vacation.pdb

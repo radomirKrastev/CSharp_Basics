@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\bin\Debug\netcoreapp2.2\SquareAreaDouble.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\bin\Debug\netcoreapp2.2\SquareAreaDouble.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\bin\Debug\netcoreapp2.2\SquareAreaDouble.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\bin\Debug\netcoreapp2.2\SquareAreaDouble.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\bin\Debug\netcoreapp2.2\SquareAreaDouble.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SquareAreaDouble\SquareAreaDouble\obj\Debug\netcoreapp2.2\SquareAreaDouble.pdb

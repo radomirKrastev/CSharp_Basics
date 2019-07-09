@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\bin\Debug\netcoreapp2.2\LowestNumber.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\bin\Debug\netcoreapp2.2\LowestNumber.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\bin\Debug\netcoreapp2.2\LowestNumber.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\bin\Debug\netcoreapp2.2\LowestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\bin\Debug\netcoreapp2.2\LowestNumber.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\obj\Debug\netcoreapp2.2\LowestNumber.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\obj\Debug\netcoreapp2.2\LowestNumber.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\obj\Debug\netcoreapp2.2\LowestNumber.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\obj\Debug\netcoreapp2.2\LowestNumber.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\LAB\numbersOnetoOneHundred\LowestNumber\obj\Debug\netcoreapp2.2\LowestNumber.pdb

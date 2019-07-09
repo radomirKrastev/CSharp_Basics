@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\bin\Debug\netcoreapp2.2\Journey.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\bin\Debug\netcoreapp2.2\Journey.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\bin\Debug\netcoreapp2.2\Journey.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\bin\Debug\netcoreapp2.2\Journey.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\bin\Debug\netcoreapp2.2\Journey.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\Journey\obj\Debug\netcoreapp2.2\Journey.pdb

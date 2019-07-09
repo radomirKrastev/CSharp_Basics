@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\bin\Debug\netcoreapp2.2\FishingBoat.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\bin\Debug\netcoreapp2.2\FishingBoat.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\bin\Debug\netcoreapp2.2\FishingBoat.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\bin\Debug\netcoreapp2.2\FishingBoat.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\bin\Debug\netcoreapp2.2\FishingBoat.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Exercises\PointInRectangle\FishingBoat\obj\Debug\netcoreapp2.2\FishingBoat.pdb

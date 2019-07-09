@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\bin\Debug\netcoreapp2.2\Histogram.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\bin\Debug\netcoreapp2.2\Histogram.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\bin\Debug\netcoreapp2.2\Histogram.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\bin\Debug\netcoreapp2.2\Histogram.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\bin\Debug\netcoreapp2.2\Histogram.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SixthLecture\Exercise\NumbersEndingOnSeven\Histogram\obj\Debug\netcoreapp2.2\Histogram.pdb

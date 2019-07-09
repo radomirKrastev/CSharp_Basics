@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\bin\Debug\netcoreapp2.2\circleAreaAndPerimeter.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\bin\Debug\netcoreapp2.2\circleAreaAndPerimeter.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\bin\Debug\netcoreapp2.2\circleAreaAndPerimeter.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\bin\Debug\netcoreapp2.2\circleAreaAndPerimeter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\bin\Debug\netcoreapp2.2\circleAreaAndPerimeter.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\obj\Debug\netcoreapp2.2\circleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\obj\Debug\netcoreapp2.2\circleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\obj\Debug\netcoreapp2.2\circleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\obj\Debug\netcoreapp2.2\circleAreaAndPerimeter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\circleAreaAndPerimeter\obj\Debug\netcoreapp2.2\circleAreaAndPerimeter.pdb

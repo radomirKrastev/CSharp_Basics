@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\bin\Debug\netcoreapp2.2\PuppyCare.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\bin\Debug\netcoreapp2.2\PuppyCare.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\bin\Debug\netcoreapp2.2\PuppyCare.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\bin\Debug\netcoreapp2.2\PuppyCare.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\bin\Debug\netcoreapp2.2\PuppyCare.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\1 and 2 December 2018\2\TrekkingEquipment\PuppyCare\obj\Debug\netcoreapp2.2\PuppyCare.pdb

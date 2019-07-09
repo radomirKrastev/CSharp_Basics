@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\bin\Debug\netcoreapp2.2\RadiansToCelsius.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\bin\Debug\netcoreapp2.2\RadiansToCelsius.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\bin\Debug\netcoreapp2.2\RadiansToCelsius.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\bin\Debug\netcoreapp2.2\RadiansToCelsius.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\bin\Debug\netcoreapp2.2\RadiansToCelsius.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\RadiansToCelsius\obj\Debug\netcoreapp2.2\RadiansToCelsius.pdb

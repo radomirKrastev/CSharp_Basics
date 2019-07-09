@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\bin\Debug\netcoreapp2.2\SwimmingWorldRecord.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\bin\Debug\netcoreapp2.2\SwimmingWorldRecord.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\bin\Debug\netcoreapp2.2\SwimmingWorldRecord.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\bin\Debug\netcoreapp2.2\SwimmingWorldRecord.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\bin\Debug\netcoreapp2.2\SwimmingWorldRecord.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\SwimmingWorldRecord\obj\Debug\netcoreapp2.2\SwimmingWorldRecord.pdb

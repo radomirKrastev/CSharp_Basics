@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\bin\Debug\netcoreapp2.2\NeighborhoodShop.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\bin\Debug\netcoreapp2.2\NeighborhoodShop.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\bin\Debug\netcoreapp2.2\NeighborhoodShop.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\bin\Debug\netcoreapp2.2\NeighborhoodShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\bin\Debug\netcoreapp2.2\NeighborhoodShop.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\Neighborhood\obj\Debug\netcoreapp2.2\NeighborhoodShop.pdb

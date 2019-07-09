@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\bin\Debug\netcoreapp2.2\FanShop.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\bin\Debug\netcoreapp2.2\FanShop.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\bin\Debug\netcoreapp2.2\FanShop.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\bin\Debug\netcoreapp2.2\FanShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\bin\Debug\netcoreapp2.2\FanShop.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\28 and 29 July 2018\2\StadiumIncome\FanShop\obj\Debug\netcoreapp2.2\FanShop.pdb

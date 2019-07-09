@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\bin\Debug\netcoreapp2.2\NameProgram.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\bin\Debug\netcoreapp2.2\NameProgram.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\bin\Debug\netcoreapp2.2\NameProgram.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\bin\Debug\netcoreapp2.2\NameProgram.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\bin\Debug\netcoreapp2.2\NameProgram.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\NameProgram\NameProgram\obj\Debug\netcoreapp2.2\NameProgram.pdb

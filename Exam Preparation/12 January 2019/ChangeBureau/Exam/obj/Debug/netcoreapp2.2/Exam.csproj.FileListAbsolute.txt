@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\bin\Debug\netcoreapp2.2\Exam.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\bin\Debug\netcoreapp2.2\Exam.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\bin\Debug\netcoreapp2.2\Exam.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\Exam\obj\Debug\netcoreapp2.2\Exam.pdb

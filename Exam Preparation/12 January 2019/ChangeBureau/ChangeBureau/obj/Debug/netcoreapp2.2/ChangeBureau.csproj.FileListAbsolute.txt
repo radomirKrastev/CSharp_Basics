@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\bin\Debug\netcoreapp2.2\ChangeBureau.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\bin\Debug\netcoreapp2.2\ChangeBureau.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\bin\Debug\netcoreapp2.2\ChangeBureau.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\bin\Debug\netcoreapp2.2\ChangeBureau.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\bin\Debug\netcoreapp2.2\ChangeBureau.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\ChangeBureau\ChangeBureau\obj\Debug\netcoreapp2.2\ChangeBureau.pdb

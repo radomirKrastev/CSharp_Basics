@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\bin\Debug\netcoreapp2.2\MagicNumbersMySolution.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\bin\Debug\netcoreapp2.2\MagicNumbersMySolution.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\bin\Debug\netcoreapp2.2\MagicNumbersMySolution.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\bin\Debug\netcoreapp2.2\MagicNumbersMySolution.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\bin\Debug\netcoreapp2.2\MagicNumbersMySolution.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\obj\Debug\netcoreapp2.2\MagicNumbersMySolution.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\obj\Debug\netcoreapp2.2\MagicNumbersMySolution.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\obj\Debug\netcoreapp2.2\MagicNumbersMySolution.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\obj\Debug\netcoreapp2.2\MagicNumbersMySolution.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\SeventhLecture\LAB\NumbersReverse100to1\MagicNumbersMySolution\obj\Debug\netcoreapp2.2\MagicNumbersMySolution.pdb

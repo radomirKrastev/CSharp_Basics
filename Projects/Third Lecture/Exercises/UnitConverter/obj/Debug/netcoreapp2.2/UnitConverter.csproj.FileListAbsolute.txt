@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\bin\Debug\netcoreapp2.2\UnitConverter.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\UnitConverter\obj\Debug\netcoreapp2.2\UnitConverter.pdb

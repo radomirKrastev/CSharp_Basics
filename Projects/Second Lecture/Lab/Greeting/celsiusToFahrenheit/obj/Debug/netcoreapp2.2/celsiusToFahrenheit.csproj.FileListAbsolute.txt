@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\bin\Debug\netcoreapp2.2\celsiusToFahrenheit.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\bin\Debug\netcoreapp2.2\celsiusToFahrenheit.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\bin\Debug\netcoreapp2.2\celsiusToFahrenheit.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\bin\Debug\netcoreapp2.2\celsiusToFahrenheit.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\bin\Debug\netcoreapp2.2\celsiusToFahrenheit.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\obj\Debug\netcoreapp2.2\celsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\obj\Debug\netcoreapp2.2\celsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\obj\Debug\netcoreapp2.2\celsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\obj\Debug\netcoreapp2.2\celsiusToFahrenheit.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\Lab\Greeting\celsiusToFahrenheit\obj\Debug\netcoreapp2.2\celsiusToFahrenheit.pdb

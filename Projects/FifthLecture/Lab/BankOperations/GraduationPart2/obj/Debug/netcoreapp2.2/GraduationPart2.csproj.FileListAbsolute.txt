@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\bin\Debug\netcoreapp2.2\GraduationPart2.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\bin\Debug\netcoreapp2.2\GraduationPart2.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\bin\Debug\netcoreapp2.2\GraduationPart2.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\bin\Debug\netcoreapp2.2\GraduationPart2.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\bin\Debug\netcoreapp2.2\GraduationPart2.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FifthLecture\Lab\BankOperations\GraduationPart2\obj\Debug\netcoreapp2.2\GraduationPart2.pdb

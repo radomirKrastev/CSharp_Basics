@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\bin\Debug\netcoreapp2.2\Scholarships.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\bin\Debug\netcoreapp2.2\Scholarships.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\bin\Debug\netcoreapp2.2\Scholarships.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\bin\Debug\netcoreapp2.2\Scholarships.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\bin\Debug\netcoreapp2.2\Scholarships.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Exercises\Scholarships\obj\Debug\netcoreapp2.2\Scholarships.csprojAssemblyReference.cache

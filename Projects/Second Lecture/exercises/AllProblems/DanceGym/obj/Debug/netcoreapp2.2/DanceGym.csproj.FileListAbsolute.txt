@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\bin\Debug\netcoreapp2.2\DanceGym.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\bin\Debug\netcoreapp2.2\DanceGym.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\bin\Debug\netcoreapp2.2\DanceGym.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\bin\Debug\netcoreapp2.2\DanceGym.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\bin\Debug\netcoreapp2.2\DanceGym.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Second Lecture\exercises\AllProblems\DanceGym\obj\Debug\netcoreapp2.2\DanceGym.pdb

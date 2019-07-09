@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\bin\Debug\netcoreapp2.2\IsNumberEvenOrOdd.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\bin\Debug\netcoreapp2.2\IsNumberEvenOrOdd.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\bin\Debug\netcoreapp2.2\IsNumberEvenOrOdd.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\bin\Debug\netcoreapp2.2\IsNumberEvenOrOdd.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\bin\Debug\netcoreapp2.2\IsNumberEvenOrOdd.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Third Lecture\Lab\IsGradeExcellent\IsNumberEvenOrOdd\obj\Debug\netcoreapp2.2\IsNumberEvenOrOdd.pdb

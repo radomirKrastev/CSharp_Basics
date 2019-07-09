@@ -1,0 +1,10 @@
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\bin\Debug\netcoreapp2.2\UniquePINCode.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\bin\Debug\netcoreapp2.2\UniquePINCode.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\bin\Debug\netcoreapp2.2\UniquePINCode.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\bin\Debug\netcoreapp2.2\UniquePINCode.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\bin\Debug\netcoreapp2.2\UniquePINCode.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\obj\Debug\netcoreapp2.2\UniquePINCode.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\obj\Debug\netcoreapp2.2\UniquePINCode.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\obj\Debug\netcoreapp2.2\UniquePINCode.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\obj\Debug\netcoreapp2.2\UniquePINCode.dll
+C:\Users\rado\Desktop\SoftUni FIles\Exam Preparation\11 and 12 August 2018\ShoppingTime\UniquePINCode\obj\Debug\netcoreapp2.2\UniquePINCode.pdb

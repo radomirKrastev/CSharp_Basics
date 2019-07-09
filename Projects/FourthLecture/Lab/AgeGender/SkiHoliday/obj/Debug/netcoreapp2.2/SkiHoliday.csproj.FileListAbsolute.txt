@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\bin\Debug\netcoreapp2.2\SkiHoliday.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\bin\Debug\netcoreapp2.2\SkiHoliday.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\bin\Debug\netcoreapp2.2\SkiHoliday.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\bin\Debug\netcoreapp2.2\SkiHoliday.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\bin\Debug\netcoreapp2.2\SkiHoliday.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\FourthLecture\Lab\AgeGender\SkiHoliday\obj\Debug\netcoreapp2.2\SkiHoliday.pdb

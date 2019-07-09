@@ -1,0 +1,11 @@
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\bin\Debug\netcoreapp2.2\Expression.deps.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\bin\Debug\netcoreapp2.2\Expression.runtimeconfig.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\bin\Debug\netcoreapp2.2\Expression.runtimeconfig.dev.json
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\bin\Debug\netcoreapp2.2\Expression.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\bin\Debug\netcoreapp2.2\Expression.pdb
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.csprojAssemblyReference.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.csproj.CoreCompileInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.AssemblyInfoInputs.cache
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.AssemblyInfo.cs
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.dll
+C:\Users\rado\Desktop\SoftUni FIles\Projects\Expression\Expression\obj\Debug\netcoreapp2.2\Expression.pdb
